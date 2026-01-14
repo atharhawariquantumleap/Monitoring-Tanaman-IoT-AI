@@ -4,5 +4,6 @@ numpy
 joblib
 scikit-learn==1.7.2
 plotly
-paho-mqtt
+paho-mqtt==1.6.1
 streamlit-autorefresh
+
